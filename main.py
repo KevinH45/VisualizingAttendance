@@ -76,4 +76,3 @@ with st.expander("", expanded=True):
     except TypeError:
         st.error("Data is poorly formatted. Cannot load stats")
 
-        
